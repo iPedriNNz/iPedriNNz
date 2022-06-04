@@ -1,4 +1,4 @@
-## print('Hello! My name is Pedro') 
+## print('Hello! I'm Pedro') 
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="80">
  <a href="https://www.linkedin.com/in/pedroferreiradev" target="_blank"><img  width=80" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
@@ -13,13 +13,8 @@
 
  ##
    
-   
-<div> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iPedriNNz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPedriNNz&layout=compact&langs_count=7&theme=merko"/>
-</div>
 
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Pedro Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pedro HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">

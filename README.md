@@ -1,18 +1,12 @@
-## print('Hello! I'm Pedro') 
+# print('Hello! I'm Pedro') 
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="80">
- <a href="https://www.linkedin.com/in/pedroferreiradev" target="_blank"><img  width=80" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a> 
 
-:house_with_garden: I’m from Brazil.
+ 
+ Apaixonado por café, jogos, músicas, tecnologia, informações aleatórias e doguinhos caramelos
 
-:books: I'm currently learning HTML5, CSS3, Python and Django.
-
-:outbox_tray: 2022 Goals:  find a new job.
-
-
-
- ##
-   
+##
+Tecnologias que utilizo no meu dia a dia:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -25,9 +19,14 @@
   <img align="center" alt="Pedro Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
-  ##
-  
+## 
 
-E-mail para contato
 
-  <a href = "mailto:pedro.luiz.cipriano@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+Contato:
+
+<div style="display: inline_block">
+  <a href = "mailto:pedro.luiz.cipriano@hotmail.com"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" target="_blank" height="30" width="40"></a>
+ <a href="https://www.linkedin.com/in/pedroferreiradev"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="30" width="40"><a/>
+</div>
+
+##

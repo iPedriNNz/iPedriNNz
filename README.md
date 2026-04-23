@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> `print('Hello! I'm Pedro')`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%26+PHP+Expert;Linux+%26+Docker+Enthusiast;Logistics+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Python+Specialist;Linux+Power+User;Java+Developer;Logistics+Analyst" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,17 +9,23 @@
 ### ⚡ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Sobre Mim
 
 - ☕ **Fuel:** Movido a café e lógica de programação.
+- 🐧 **Especialidade:** Otimização de sistemas Linux (Zorin OS Lite) e automação em Python.
 - 🎮 **Hobby:** Jogador de MMORPG e mestre de servidores Minecraft (Lorecraft).
-- 🐧 **OS:** Zorin OS Lite user (Especialista em otimização de sistemas).
 - 🐶 **Pet:** Fã oficial dos Doguinhos Caramelos.
-- 💼 **Professional:** Analista de Logística com foco em KPIs e automação.
+- 💼 **Professional:** Analista de Logística com foco em KPIs (OTIF/Picking).
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,java,js,mysql,django,docker,linux,git,github,vscode,gcp,html,css,bootstrap&theme=dark" />
+#### 🏆 Especialista
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,linux,java&theme=dark" />
+</p>
+
+#### 🌟 Entusiasta & Usuário
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,mysql,django,docker,git,github,vscode,gcp,html,css&theme=dark" />
 </p>
 
 ---
@@ -29,10 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroferreiradev&show_icons=true&theme=tokyonight&border_radius=15" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreiradev&layout=compact&theme=tokyonight&border_radius=15" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroferreiradev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -45,7 +47,7 @@
 
 ---
 
-### 🤝 Conecte-se comigo no Matrix
+### 🤝 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedroferreiradev" target="_blank">

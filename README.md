@@ -1,76 +1,63 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> `print('Hello! I'm Pedro')`
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXp4bnR3bmx5eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L8K62iTDpYdeMAuS8S/giphy.gif" width="40" align="center"> `print('Hello! I'm Pedro')`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Software+Developer;Python+%26+PHP+Expert;Linux+%26+Docker+Enthusiast;Logistics+Data+Analyst" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroferreiradev&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="trophy" />
+  <img src="https://img.shields.io/badge/Senior%20Software%20Developer%20|%20Python%20|%20PHP%20|%20Logistics%20Tech-00F2FF?style=flat-square&logo=visual-studio-code&logoColor=black" alt="Status" />
 </p>
 
 ---
 
-### ⚡ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Sobre Mim
+### ⚡ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg" width="25"> Sobre Mim
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXp4bnR3bmx5eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L8K62iTDpYdeMAuS8S/giphy.gif" width="200" align="right">
-
-  - ☕ **Fuel:** Movido a café e lógica de programação.
-  - 🎮 **Hobby:** Jogador de MMORPG e mestre de servidores Minecraft (Lorecraft).
-  - 🐧 **OS:** Zorin OS Lite user (Especialista em otimização de sistemas).
-  - 🐶 **Pet:** Fã oficial dos Doguinhos Caramelos.
-  - 💼 **Professional:** Analista de Logística com foco em KPIs e automação.
+  🔹 **Fuel:** Movido a café, música e lógica pura.  
+  🔹 **Hobby:** Jogador de MMORPG e mestre de servidores.  
+  🔹 **OS:** Zorin OS user (focado em performance).  
+  🔹 **Pet:** Defensor dos Doguinhos Caramelos. 🐕  
 </p>
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 🚀 Tech Stack Neon
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,java,js,mysql,django,docker,linux,git,github,vscode,gcp,html,css,bootstrap&theme=dark" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-00F2FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-00F2FF?style=for-the-badge&logo=php&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-00F2FF?style=for-the-badge&logo=openjdk&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-00F2FF?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-00F2FF?style=for-the-badge&logo=django&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-00F2FF?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-00F2FF?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-00F2FF?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/GCP-00F2FF?style=for-the-badge&logo=google-cloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/VScode-00F2FF?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
 </p>
 
 ---
 
-### 📈 Activity & Stats
+### 📊 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroferreiradev&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroferreiradev&show_icons=true&theme=tokyonight&border_radius=15" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreiradev&layout=compact&theme=tokyonight&border_radius=15" height="180" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"> **Confira minhas contribuições recentes e projetos mais usados em:**
+  <br>
+  👉 [github.com/pedroferreiradev](https://github.com/pedroferreiradev)
 </p>
 
 ---
 
-### 🐍 The Contribution Snake
+### 🤝 Conecte-se comigo
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
-
----
-
-### 🤝 Conecte-se comigo no Matrix
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedroferreiradev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="left">
   <a href="mailto:pedro.luiz.cipriano@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
   </a>
-  <a href="https://wa.me/seu-numero-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pedroferreiradev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedroferreiradev&color=00f2ff&style=flat-square&label=PERFIL+VISITADO" alt="Views" />
-</p>
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00f2ff&height=2&section=footer" />
+  <img src="https://img.shields.io/badge/PERFIL_VISITADO-00F2FF?style=flat-square&logo=eye&logoColor=black" alt="Views" />
 </p>

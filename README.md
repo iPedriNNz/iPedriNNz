@@ -1,7 +1,13 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> `print('Hello! I'm Pedro')`
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Python+Specialist;Linux+Power+User;Java+Developer;Cloud+%26+PHP+Expert;Logistics+Analyst" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&height=70&lines=%3E_print('Hello!_I'm_Pedro');%3E_iPedriNNz_login...;%3E_Access_Granted!" alt="Terminal Typing" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00F2FF&height=2&section=header" width="100%"/>
 </p>
 
 ---
@@ -14,6 +20,10 @@
 - 🐶 **Pet:** Fã oficial dos Doguinhos Caramelos.
 - 💼 **Professional:** Analista de Logística com foco em KPIs (OTIF/Picking).
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00F2FF&height=2&section=footer" width="100%"/>
+</p>
+
 ---
 
 ### 🚀 Tech Stack
@@ -23,14 +33,18 @@
   <img src="https://skillicons.dev/icons?i=py,linux,java&theme=dark" />
 </p>
 
-#### ⚡ Proficiente (Git, Web & Cloud)
+#### ⚡ Proficiente (Tools, Web & Cloud)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,php,gcp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,git,github,php,gcp,html,css&theme=dark" />
 </p>
 
 #### 🌟 Usuário & Entusiasta
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,js,django,docker,vscode,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,mysql,js,django,docker,bootstrap&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00F2FF&height=2&section=footer" width="100%"/>
 </p>
 
 ---
@@ -68,4 +82,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedroferreiradev&color=00f2ff&style=flat-square&label=ACCESS+GRANTED" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00F2FF&height=60&section=footer" />
 </p>

@@ -8,15 +8,11 @@
 
 ### ⚡ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Sobre Mim
 
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXp4bnR3bmx5eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L8K62iTDpYdeMAuS8S/giphy.gif" width="200" align="right">
-
-  - ☕ **Fuel:** Movido a café e lógica de programação.
-  - 🎮 **Hobby:** Jogador de MMORPG e mestre de servidores Minecraft (Lorecraft).
-  - 🐧 **OS:** Zorin OS Lite user (Especialista em otimização de sistemas).
-  - 🐶 **Pet:** Fã oficial dos Doguinhos Caramelos.
-  - 💼 **Professional:** Analista de Logística com foco em KPIs e automação.
-</p>
+- ☕ **Fuel:** Movido a café e lógica de programação.
+- 🎮 **Hobby:** Jogador de MMORPG e mestre de servidores Minecraft (Lorecraft).
+- 🐧 **OS:** Zorin OS Lite user (Especialista em otimização de sistemas).
+- 🐶 **Pet:** Fã oficial dos Doguinhos Caramelos.
+- 💼 **Professional:** Analista de Logística com foco em KPIs e automação.
 
 ---
 

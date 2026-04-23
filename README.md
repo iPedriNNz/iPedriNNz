@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> `print('Hello! I'm Pedro')`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Python+Specialist;Linux+Power+User;Java+Developer;Logistics+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Python+Specialist;Linux+Power+User;Java+Developer;Cloud+%26+PHP+Expert;Logistics+Analyst" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,9 +23,14 @@
   <img src="https://skillicons.dev/icons?i=py,linux,java&theme=dark" />
 </p>
 
-#### 🌟 Entusiasta & Usuário
+#### ⚡ Proficiente (Git, Web & Cloud)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,mysql,django,docker,git,github,vscode,gcp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,php,gcp,html,css&theme=dark" />
+</p>
+
+#### 🌟 Usuário & Entusiasta
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,mysql,js,django,docker,vscode,bootstrap&theme=dark" />
 </p>
 
 ---

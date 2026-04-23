@@ -1,13 +1,11 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45">
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&height=70&lines=%3E_print('Hello!_I'm_Pedro');%3E_iPedriNNz_login...;%3E_Access_Granted!" alt="Terminal Typing" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&height=70&lines=%3E_print('Hello!_I'm_Pedro');%3E_iPedriNNz_login...;%3E_Access_Granted!" alt="Terminal Typing" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00F2FF&height=2&section=header" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&center=true&vCenter=true&width=1000&height=15&lines=____________________________________________________________________________________________________________________" alt="Neon Line" />
 </p>
 
 ---
@@ -20,13 +18,13 @@
 - 🐶 **Pet:** Fã oficial dos Doguinhos Caramelos.
 - 💼 **Professional:** Analista de Logística com foco em KPIs (OTIF/Picking).
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00F2FF&height=2&section=footer" width="100%"/>
-</p>
-
 ---
 
 ### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&size=18&width=300&height=30&lines=CORE_SYSTEM_LOADING..." alt="Loading" />
+</p>
 
 #### 🏆 Especialista
 <p align="left">
@@ -41,10 +39,6 @@
 #### 🌟 Usuário & Entusiasta
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,mysql,js,django,docker,bootstrap&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00F2FF&height=2&section=footer" width="100%"/>
 </p>
 
 ---
@@ -85,5 +79,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00F2FF&height=60&section=footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F2FF&center=true&vCenter=true&width=1000&height=15&lines=____________________________________________________________________________________________________________________" alt="Neon Line Footer" />
 </p>

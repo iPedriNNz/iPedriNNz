@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 Activity & Stats
-
-<!-- Copie e cole este código no seu arquivo README.md -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iPedriNNz&show_icons=true&theme=tokyonight&border_radius=15" height="180" alt="Estatísticas de Pedro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPedriNNz&layout=compact&theme=tokyonight&border_radius=15" height="180" alt="Linguagens mais usadas" />
-</p>
 
 ### 🐍 The Contribution Snake
 

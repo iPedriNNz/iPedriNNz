@@ -10,7 +10,7 @@ Desenvolvedor Python e Analista focado em **automação de processos, inteligên
 
 - 🛠️ **Foco Atual:** Automação em Python, scripts SQL e dashboards de desempenho operacional (OTIF/Supply Chain).
 - 🐧 **Sistemas:** Otimização e customização de ambientes Linux para máxima eficiência de recursos.
-- 🎮 **Side Projects:** Infraestrutura, gestão e customização de servidores de jogos (Minecraft / Lorecraft).
+- 🎮 **Side Projects:** Infraestrutura, gestão e customização de servidores de jogos (Minecraft especialmente).
 
 ---
 
